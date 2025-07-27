@@ -6,7 +6,7 @@ import AboutSection from "./components/About";
 import ServicesSection from "./components/Services";
 import GallerySection from "./components/Gallery";
 import TestimonialSection from "./components/TestimonialSection";
-import ContactSection from "./components/Contact";
+import ContactSection from "./components/contact";
 import GoogleMapSection from "./components/GoogleMapSection";
 import FooterSection from "./components/FooterSection";
 
